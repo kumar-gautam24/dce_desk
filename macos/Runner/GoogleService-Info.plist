@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>836424310070-fh34m662tpi9aond9mo3sh7tagk7e025.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.836424310070-fh34m662tpi9aond9mo3sh7tagk7e025</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIENHsKTxPDOE3qxMjqpZcK_nMrOO_uMc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>836424310070</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dcedesk.dceDesk.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>my-dce-desk-cse20</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-dce-desk-cse20.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:836424310070:ios:7fc4461b8726acfe7ea797</string>
+</dict>
+</plist>

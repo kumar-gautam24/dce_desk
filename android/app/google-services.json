@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836424310070",
+    "project_id": "my-dce-desk-cse20",
+    "storage_bucket": "my-dce-desk-cse20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836424310070:android:20573dc21f2bafae7ea797",
+        "android_client_info": {
+          "package_name": "com.dce_desk.dce_desk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836424310070-ra5ecjm4h161cimkq7fdeqhaifsrkq80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3wWTQ_4AmU2kP6az3ZGDbeWWlUQgOAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836424310070-ra5ecjm4h161cimkq7fdeqhaifsrkq80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
